@@ -1,0 +1,11 @@
+C:\Users\khodr\source\repos\FullEfCore\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\khodr\source\repos\FullEfCore\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\khodr\source\repos\FullEfCore\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\ref\Entities.dll
