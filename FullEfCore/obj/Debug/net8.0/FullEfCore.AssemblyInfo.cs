@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullEfCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9abfeed88227e6631d79f734bd0118dfdbc03879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870e13a20e34c73576d6da2d8001db84f2bde97c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullEfCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullEfCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
