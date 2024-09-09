@@ -12,7 +12,7 @@ public class SeedData
             .HasData(
                 new Category() { Id = 1, Name = "Sport" , CreatedDate = DateTime.Now },
                 new Category() { Id = 2, Name = "News", CreatedDate = DateTime.Now },
-                new Category() { Id = 2, Name = "Local News", CreatedDate = DateTime.Now }
+                new Category() { Id = 3, Name = "Local News", CreatedDate = DateTime.Now }
             );
          
         modelBuilder.Entity<User>().HasData(
