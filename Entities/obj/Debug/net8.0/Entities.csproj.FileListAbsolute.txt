@@ -9,3 +9,15 @@ C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.dll
 C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\khodr\source\repos\FullEfCore\Entities\obj\Debug\net8.0\ref\Entities.dll
+E:\Projects\BlogProject\Entities\bin\Debug\net8.0\Entities.deps.json
+E:\Projects\BlogProject\Entities\bin\Debug\net8.0\Entities.dll
+E:\Projects\BlogProject\Entities\bin\Debug\net8.0\Entities.pdb
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.dll
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\refint\Entities.dll
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\Entities.pdb
+E:\Projects\BlogProject\Entities\obj\Debug\net8.0\ref\Entities.dll

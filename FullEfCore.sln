@@ -3,13 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullEfCore", "FullEfCore\FullEfCore.csproj", "{0CA1495F-1E57-4B81-A0C1-53A7C4C55120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullEfCore", "FullEfCore\FullEfCore.csproj", "{0CA1495F-1E57-4B81-A0C1-53A7C4C55120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{FE53A187-F901-4777-8513-61FCD7F692A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{FE53A187-F901-4777-8513-61FCD7F692A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{6849BF41-2C73-4EA8-8789-40D76506AFDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{6849BF41-2C73-4EA8-8789-40D76506AFDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApi", "BlogApi\BlogApi.csproj", "{245B10AF-0EA0-4739-A3C5-7085CA2484DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApi", "BlogApi\BlogApi.csproj", "{245B10AF-0EA0-4739-A3C5-7085CA2484DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{1AAE1F15-5CEB-49F9-AF38-576824BD4469}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CAFF5AA8-AA0B-4D44-BAA8-59AB7B3BFC16}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +40,10 @@ Global
 		{245B10AF-0EA0-4739-A3C5-7085CA2484DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245B10AF-0EA0-4739-A3C5-7085CA2484DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245B10AF-0EA0-4739-A3C5-7085CA2484DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAE1F15-5CEB-49F9-AF38-576824BD4469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAE1F15-5CEB-49F9-AF38-576824BD4469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAE1F15-5CEB-49F9-AF38-576824BD4469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAE1F15-5CEB-49F9-AF38-576824BD4469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
