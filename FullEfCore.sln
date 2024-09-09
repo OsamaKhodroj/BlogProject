@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApi", "BlogApi\BlogApi.csproj", "{245B10AF-0EA0-4739-A3C5-7085CA2484DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{1AAE1F15-5CEB-49F9-AF38-576824BD4469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "Tools\Tools.csproj", "{1AAE1F15-5CEB-49F9-AF38-576824BD4469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
