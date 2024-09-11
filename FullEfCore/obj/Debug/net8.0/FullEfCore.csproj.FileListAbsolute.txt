@@ -216,3 +216,5 @@ E:\Projects\BlogProject\FullEfCore\obj\Debug\net8.0\refint\FullEfCore.dll
 E:\Projects\BlogProject\FullEfCore\obj\Debug\net8.0\FullEfCore.pdb
 E:\Projects\BlogProject\FullEfCore\obj\Debug\net8.0\FullEfCore.genruntimeconfig.cache
 E:\Projects\BlogProject\FullEfCore\obj\Debug\net8.0\ref\FullEfCore.dll
+E:\Projects\BlogProject\FullEfCore\bin\Debug\net8.0\Castle.Core.dll
+E:\Projects\BlogProject\FullEfCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

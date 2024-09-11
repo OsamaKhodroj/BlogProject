@@ -1,6 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-using Services;
-
 namespace FullEfCore
 {
     public class Program
@@ -11,13 +8,7 @@ namespace FullEfCore
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
-            builder.Services.AddDbContextPool<BlogDbContext>(options =>
-            {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("BlogDbConnection"));
-            });
-
-
+             
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
