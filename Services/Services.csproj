@@ -25,9 +25,4 @@
     <ProjectReference Include="..\Tools\Tools.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Confguration\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
